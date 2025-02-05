@@ -5,7 +5,7 @@ A web-based memory game that challenges players to remember and repeat patterns 
 ### Project Description
 This Light and Sound Memory Game is an interactive web application where players must repeat a pattern of lights and sounds by clicking buttons in the correct sequence. The game features:
 
-- four colorful buttons that light up and play unique tones
+- Four colorful buttons that light up and play unique tones
 - Progressive difficulty as the pattern length increases
 - Immediate feedback on correct/incorrect guesses
 - Clean, modern UI with responsive design
@@ -19,7 +19,7 @@ This Light and Sound Memory Game is an interactive web application where players
   - Dynamic visual feedback through CSS transitions
   - Custom color palette and typography
 - JavaScript - Implemented game logic including:
-  - audio synthesis using the Web Audio API
+  - Audio synthesis using the Web Audio API
   - DOM manipulation for dynamic UI updates
   - Event handling for user interactions
   - Asynchronous timing sequences
